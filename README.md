@@ -9,24 +9,13 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-This is my first web site on gitHub.  Changes/Additions coming soon.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+# This is my first web site on gitHub.  Changes/Additions coming soon.
+I am interested in the following languages:
+Java, C, C++, Python
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
